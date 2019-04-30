@@ -4,10 +4,10 @@
 <div align=center>
 <img src="resouce/arithmetic_logo.jpeg" width = "70%" height = "70%"/>
 </div>
-####算法题整理
+<!--####算法题整理
 ---
 ***
-___
+___-->
 <!--<table align="center" border="1" cellspacing="0" width="100%">
 	<tr>
 		<td width="20%" height=30px  rowspan="2" bgcolor=#dddddd>数据去重</td>
