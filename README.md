@@ -4,8 +4,7 @@
 <div align=center>
 <img src="resouce/arithmetic_logo.jpeg" width = "70%" height = "70%"/>
 </div>
-<html>
-<style type="text/css">
+<style>
 	.cp_style{
 		<!--border:1px solid #000;
 -->		height:60px;
@@ -24,7 +23,6 @@
 		height:30px
 	}
 </style>
-<html>
 <table align="center" border="1" cellspacing="0" width="100%">
 	<caption class="cp_style">算法题整理</caption>
 	<tr >
