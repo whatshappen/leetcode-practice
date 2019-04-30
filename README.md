@@ -5,11 +5,7 @@
 <img src="resouce/arithmetic_logo.jpeg" width = "70%" height = "70%"/>
 </div>
 
-
-
-####算法题整理
-
-
+#### 算法题整理
 
 ****
 
