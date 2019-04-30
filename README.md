@@ -27,7 +27,8 @@
 </table>
 
 # html
-<table border="1px" align="center" bordercolor="black" width="80%" height="100px">
+<table border="1px" align="center" bordercolor="black" width="100%" height="100px">
+<caption width="100%";>算法题整理</caption>
     <tr align="center">
         <td>字段</td>
         <td>类型</td>
