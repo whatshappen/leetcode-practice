@@ -4,11 +4,12 @@
 <div align=center>
 <img src="resouce/arithmetic_logo.jpeg" width = "70%" height = "70%"/>
 </div>
-<!--####算法题整理
----
-***
-___-->
-<!--<table align="center" border="1" cellspacing="0" width="100%">
+
+
+####算法题整理
+****
+
+<table align="center" border="1" cellspacing="0" width="100%">
 	<tr>
 		<td width="20%" height=30px  rowspan="2" bgcolor=#dddddd>数据去重</td>
       	<td height=30px><a href="code\001-输出字符串中第一个不重复的字符.md">输出字符串中的第一个不重复的字符，例如：</br>
@@ -26,12 +27,4 @@ ___-->
       	</td>
    </tr>
 </table>
--->
 
-****
-	
-	
-|Author|果冻虾仁|
-|---|---
-|E-mail|Jelly.K.Wang@qq.com
-|---|Jelly.K.Wang@qq.com
