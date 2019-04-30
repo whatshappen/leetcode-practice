@@ -4,9 +4,8 @@
 <div align=center>
 <img src="resouce/arithmetic_logo.jpeg" width = "70%" height = "70%"/>
 </div>
-
+<font width="100%"; text-align="center">算法题整理</font>
 <table align="center" border="1" cellspacing="0" width="100%">
-	<caption width="100%"; height=60px; align="center">算法题整理</caption>
 	<tr>
 		<td width="20%"; height=30px;  rowspan="2"; style="background-color:#ededed;text-align: center;vertical-align:middle;";>数据去重</td>
       	<td height=30px><a href="code\001-输出字符串中第一个不重复的字符.md">输出字符串中的第一个不重复的字符，例如：</br>
@@ -24,27 +23,4 @@
       	</td>
    </tr>
    
-</table>
-
-# html
-<table border="1px" align="center" bordercolor="black" width="100%" height="100px">
-<caption width="100%";>算法题整理</caption>
-    <tr align="center">
-        <td>字段</td>
-        <td>类型</td>
-        <td>是否必选</td>
-        <td>可为空</td>
-        <td>默认值</td>
-        <td>说明</td>
-        <td>示例</td>
-    </tr>
-    <tr align="center">
-        <td>account</td>
-        <td>string</td>
-        <td>Y</td>
-        <td>N</td>
-        <td></td>
-        <td>账号</td>
-        <td>zhangli@test.com</td>
-    </tr>
 </table>
