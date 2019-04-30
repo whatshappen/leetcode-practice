@@ -6,9 +6,9 @@
 </div>
 
 <table align="center" border="1" cellspacing="0" width="100%">
-	<caption width="100%"; height=60px; style="font-size:20px; aligin:center";>算法题整理</caption>
+	<caption width="100%"; height=60px; style="font-size:20px;text-align: center;vertical-align:middle;";>算法题整理</caption>
 	<tr>
-		<td width="20%"; height=30px;  rowspan="2"; style="background-color:#ededed; align:center";>数据去重</td>
+		<td width="20%"; height=30px;  rowspan="2"; style="background-color:#ededed;text-align: center;vertical-align:middle;";>数据去重</td>
       	<td height=30px><a href="code\001-输出字符串中第一个不重复的字符.md">输出字符串中的第一个不重复的字符，例如：</br>
    			“hello”输出 ‘h’ </br>
    			“abbac”输出 ‘c’ </br>
