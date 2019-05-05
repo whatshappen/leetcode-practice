@@ -46,6 +46,21 @@
       	例如：int num = 121,结果为true；int num = -121,结果为false；int num = 12,结果为false；
 	   	</a></td>
    </tr>
+   
+   
+   <tr>
+		<td width="20%" height=30px  rowspan="1" bgcolor=#dddddd>数据转换</td>
+      	<td height=30px><a href="code\4001-将罗马数字转成int数据.md">将罗马数字转成对应的int类型数据。对应关系如下：</br>
+	I =>  1</br>
+	V =>  5</br>
+	X =>  10</br>
+	L =>  50</br>
+	C =>  100</br>
+	D =>  500</br>
+	M =>  1000</br>
+      	例如：输入“III”，输出：3，输入“IV”，输出：4，输入“IX”，输出：9，输入“LVIII，输出：58(L=50,V=5,III=3)，输入“CMMXCIV”，输出：1994(M=1000,CM=900,XC=90,IV=4)</br>
+      	</a></td>
+   </tr>
 
 
 </table>
