@@ -7,6 +7,8 @@
 
 #### 算法题整理
 
+![img](https://github.com/whatshappen/leetcode-practice/blob/master/resouce/icon_guide.png)
+
 ****
 <table align="center" border="1" cellspacing="0" width="100%">
 	<tr>
