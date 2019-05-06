@@ -13,7 +13,7 @@
 	<tr>
 		<td width="20%" height=30px  rowspan="2" bgcolor=#dddddd>数据去重</td>
       	<td height=30px>输出字符串中的第一个不重复的字符。</br>
-      <font color="#666666">例如：“hello”输出 ‘h’ ，	“abbac”输出 ‘c’ ，“abdabe”输出 ‘d’</font>
+      <font color=DimGray>例如：“hello”输出 ‘h’ ，	“abbac”输出 ‘c’ ，“abdabe”输出 ‘d’</font>
    		</br><a style="vertical-align:middle;text-decoration:none;" align="center" href="code\1001-输出字符串中第一个不重复的字符.md">参考答案<img src="resouce/icon_guide.png" width = "25" height = "25" style="vertical-align:middle;"></a></td>
    </tr>
    <tr>
