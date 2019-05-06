@@ -12,9 +12,9 @@
 <table align="center" border="1" cellspacing="0" width="100%">
 	<tr>
 		<td width="20%" height=30px  rowspan="2" bgcolor=#dddddd>数据去重</td>
-      	<td height=30px><a href="code\1001-输出字符串中第一个不重复的字符.md">输出字符串中的第一个不重复的字符。</br>
+      	<td height=30px>输出字符串中的第一个不重复的字符。</br>
       例如：“hello”输出 ‘h’ ，	“abbac”输出 ‘c’ ，“abdabe”输出 ‘d’
-   		</a></td>
+   		</br><a align="center" href="code\1001-输出字符串中第一个不重复的字符.md">参考答案<img src="resouce/icon_guide.png" width = "20" height = "20" style="margin: 0 auto"></a></td>
    </tr>
    <tr>
       	<td height=30px><a href="code\1002-有序int[]去重.md">对有序int[]去重，并输出去重后的长度，并打印出来，要求时间复杂度为O(n)，空间复杂度为O(1)。</br>
@@ -26,12 +26,23 @@
 
 
    <tr>
-		<td width="20%" height=30px  rowspan="1" bgcolor=#dddddd>数据查询</td>
+		<td width="20%" height=30px  rowspan="3" bgcolor=#dddddd>数据查询</td>
       	<td height=30px><a href="code\2001-返回满足求和的数据索引.md">查询int[]中满足两个数据相加等于指定数值的索引，相同索引不能使用两次。</br>
       	例如：已知int[] nums = [3, 5, 7,11, 15], target = 10，返回符合条件的索引。</br>
       	nums[0] + nums[2] = 3 + 7 = 10,nums[1]+nums[1]=10;因为nums相同索引只能使用一次，所以返回[0, 1]
    		</a></td>
    </tr>
+   <tr>
+      	<td height=30px><a href="code\2002-返回字符串数组中，相同部分的字符串.md">查询String[]中以相同部分开始的的字符串。</br>
+      	例如：["flower","flow","flight"] 返回：fl；["dog","racecar","car"] 返回：“”
+   		</a></td>
+   </tr>
+   <tr>
+      	<td height=30px><a href="code\2003-判断int数组中最多改变一个数后是否是非递增数组.md">给定一个长度为n的int数组，判断最多修改一个数据后，该数组是否为非递增数组。</br>
+      	例如：[3，4，2，3] 返回：false；[3,6,4,5] 返回：true；[4,2,3] 返回true；
+   		</a></td>
+   </tr>
+
    
    
    
