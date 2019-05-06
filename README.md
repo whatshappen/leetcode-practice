@@ -8,13 +8,14 @@
 #### 算法题整理
 
 ****
-
 <table align="center" border="1" cellspacing="0" width="100%">
 	<tr>
 		<td width="20%" height=30px  rowspan="2" bgcolor=#dddddd>数据去重</td>
       	<td height=30px>输出字符串中的第一个不重复的字符。</br>
       例如：“hello”输出 ‘h’ ，	“abbac”输出 ‘c’ ，“abdabe”输出 ‘d’
-   		</br><a style="vertical-align:middle;text-decoration:none;" align="center" href="code\1001-输出字符串中第一个不重复的字符.md">参考答案 ![img](https://github.com/whatshappen/leetcode-practice/blob/master/resouce/icon_guide.png)</a></td>
+   		</br>
+   		![img](https://github.com/whatshappen/leetcode-practice/blob/master/resouce/icon_guide.png)
+   		<a style="vertical-align:middle;text-decoration:none;" align="center" href="code\1001-输出字符串中第一个不重复的字符.md">参考答案</a></td>
    </tr>
    <tr>
       	<td height=30px>对有序int[]去重，并输出去重后的长度，并打印出来，要求时间复杂度为O(n)，空间复杂度为O(1)。</br>
