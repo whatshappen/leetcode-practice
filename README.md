@@ -72,6 +72,21 @@
       	例如：输入“III”，输出：3，输入“IV”，输出：4，输入“IX”，输出：9，输入“LVIII，输出：58(L=50,V=5,III=3)，输入“CMMXCIV”，输出：1994(M=1000,CM=900,XC=90,IV=4)
       	</br><a href="code\4001-将罗马数字转成int数据.md">参考答案<img src="resouce/icon_guide.png" width = "25" height = "25" style="vertical-align:middle;"/></a></td>
    </tr>
+   
+   
+   
+    <tr>
+		<td width="20%" height=30px  rowspan="1" bgcolor=#dddddd>数据结构</td>
+      	<td height=30px>设计链表的实现。您可以选择使用单链表或双链表。单链表中的节点应该有两个属性:val和next。val是当前节点的值，next是指向下一个节点的指针/引用。如果希望使用双链表，还需要一个属性prev来指示链表中的前一个节点。假设链表中的所有节点都是0索引的。</br>
+      	例如：MyLinkedList linkedList = new MyLinkedList();</br>
+      	linkedList.addAtHead(1);</br>
+      	linkedList.addAtTail(3);</br>
+      	linkedList.addAtIndex(1, 2);  // linked list becomes 1->2->3 </br>
+      	linkedList.get(1);            // returns 2 </br>
+      	linkedList.deleteAtIndex(1);  // now the linked list is 1->3 </br>
+      	linkedList.get(1);            // returns 3 
+	   	</br><a href="code\5001-实现链表结构.md">参考答案<img src="resouce/icon_guide.png" width = "25" height = "25" style="vertical-align:middle;"/></a></td>
+   </tr>
 
 
 </table>
