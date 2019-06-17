@@ -38,7 +38,7 @@
    		</br><a href="code\2002-返回字符串数组中，相同部分的字符串.md">参考答案<img src="resouce/icon_guide.png" width = "25" height = "25" style="vertical-align:middle;"/></a></td>
    </tr>
    <tr>
-      	<td height=30px>给定一个长度为n的int数组，判断最多修改一个数据后，该数组是否为非递增数组。</br>
+      	<td height=30px>给定一个长度为n的int数组，判断最多修改一个数据后，该数组是否为非递减数组。</br>
       	例如：[3，4，2，3] 返回：false；[3,6,4,5] 返回：true；[4,2,3] 返回true；
    		</br><a href="code\2003-判断int数组中最多改变一个数后是否是非递增数组.md">参考答案<img src="resouce/icon_guide.png" width = "25" height = "25" style="vertical-align:middle;"/></a></td>
    </tr>
